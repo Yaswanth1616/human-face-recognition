@@ -1,0 +1,4 @@
+go to this directory
+human face recognition\opencv\build\python\2.7\x86\
+
+copy cv2.pyd file to C:\Python27\Lib\site-packages
